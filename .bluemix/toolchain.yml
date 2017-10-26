@@ -46,6 +46,6 @@ form:
   githubpublic:
     parameters:
       devopsinsights-repo_name: '{{toolchain.name}}'
-      devopsinsights-repo_url: 'https://github.com/open-toolchain/DemoDRA'
+      devopsinsights-repo_url: 'https://github.com/kdunetz/visual-recognition-nodejs'
     schema:
       $ref: github.json
